@@ -1,0 +1,84 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Toyota",
+      "transaccion": "Alquiler",
+      "descripcion": "Corolla",
+      "precio": "27596",
+      "puertas": "7",
+      "kms": "4",
+      "potencia": "2"
+    },
+    {
+      "id": 2,
+      "titulo": "Ferrari",
+      "transaccion": "Venta",
+      "descripcion": "612 Scaglietti",
+      "precio": "21444",
+      "puertas": "7",
+      "kms": "5",
+      "potencia": "10"
+    },
+    {
+      "id": 3,
+      "titulo": "BMW",
+      "transaccion": "Venta",
+      "descripcion": "Z3",
+      "precio": "60820",
+      "puertas": "10",
+      "kms": "9",
+      "potencia": "4"
+    },
+    {
+      "id": 4,
+      "titulo": "Oldsmobile",
+      "transaccion": "Alquiler",
+      "descripcion": "Silhouette",
+      "precio": 84024,
+      "puertas": 8,
+      "kms": 3,
+      "potencia": 8
+    },
+    {
+      "id": 5,
+      "titulo": "Nissan",
+      "transaccion": "Alquiler",
+      "descripcion": "Sentra",
+      "precio": 37962,
+      "puertas": 4,
+      "kms": 3,
+      "potencia": 8
+    },
+    {
+      "id": 6,
+      "titulo": "Volkswagen",
+      "transaccion": "Alquiler",
+      "descripcion": "New Beetle",
+      "precio": "17655",
+      "puertas": "3",
+      "kms": "1",
+      "potencia": "5"
+    },
+    {
+      "id": 7,
+      "titulo": "Chevrolet",
+      "transaccion": "Venta",
+      "descripcion": "Express 2500",
+      "precio": "80720",
+      "puertas": "6",
+      "kms": "6",
+      "potencia": "6"
+    },
+    {
+      "id": 8,
+      "titulo": "Peugeot",
+      "transaccion": "Venta",
+      "descripcion": "Peugeot 208",
+      "precio": "60820",
+      "puertas": "4",
+      "kms": "14000",
+      "potencia": "208"
+    }
+  ]
+}
